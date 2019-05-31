@@ -1,3 +1,10 @@
+1.cnpm install
+2.npm run dev
+
+
+
+
+或者
 npx webpack --mode development --devtool inline-source-map
 
 
